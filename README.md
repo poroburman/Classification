@@ -3,7 +3,7 @@
 This repository consist of all the classification projects I've performed.   
 
 1. Artificial Neural Network: This script uses ANN to analyze and predicts which customers continue to keep their accounts within a specific bank and which customers                      leave the bank.The dataset contains the details of all the customers within a bank. Following files are part of this project:    
-                        - ANN - Classification
+                        - ANN - Classification.   
                         - Churn_Modelling.csv : dataset.   
 
 1. Random Forest: This script uses Random Forest Classification to find out if based upon their Age and Estimated Salary, can we predict if a customer 
