@@ -1,4 +1,4 @@
-# Classification
+# Machine-Learning---Classification
 
 This repository consist of all the classification projects I've performed.   
 
